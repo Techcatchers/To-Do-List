@@ -2,7 +2,7 @@
 
 This project is built using HTML/CSS and Materialize CSS Framework. It makes use of Vanilla Javascript to create and update tasks.
 
-**NOTE: This course work has been modified apart from the assigned MVP before getting upoaded on GitHub.**
+**NOTE: This course work has been modified apart from the assigned MVP before getting uploaded on GitHub.**
 
 ## Features
 
